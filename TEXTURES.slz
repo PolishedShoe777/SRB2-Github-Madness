@@ -1,0 +1,305 @@
+WallTexture "STLWALL1", 64, 832
+{
+	Patch "STLREDU1", 0, 0
+	Patch "STLWAL01", 0, 64
+	Patch "STLWAL01", 0, 128
+	Patch "STLWAL01", 0, 192
+	Patch "STLWAL01", 0, 256
+	Patch "STLWAL01", 0, 320
+	Patch "STLWAL01", 0, 384
+	Patch "STLWAL01", 0, 448
+	Patch "STLWAL01", 0, 512
+	Patch "STLWAL01", 0, 576
+	Patch "STLWAL01", 0, 640
+	Patch "STLWAL01", 0, 704
+	Patch "STLWAL01", 0, 768
+}
+
+WallTexture "STLWALL2", 64, 832
+{
+	Patch "STLREDU2", 0, 0
+	Patch "STLWAL01", 0, 64
+	Patch "STLWAL01", 0, 128
+	Patch "STLWAL01", 0, 192
+	Patch "STLWAL01", 0, 256
+	Patch "STLWAL01", 0, 320
+	Patch "STLWAL01", 0, 384
+	Patch "STLWAL01", 0, 448
+	Patch "STLWAL01", 0, 512
+	Patch "STLWAL01", 0, 576
+	Patch "STLWAL01", 0, 640
+	Patch "STLWAL01", 0, 704
+	Patch "STLWAL01", 0, 768
+}
+
+WallTexture "STLWALL3", 64, 832
+{
+	Patch "STLREDU3", 0, 0
+	Patch "STLWAL01", 0, 64
+	Patch "STLWAL01", 0, 128
+	Patch "STLWAL01", 0, 192
+	Patch "STLWAL01", 0, 256
+	Patch "STLWAL01", 0, 320
+	Patch "STLWAL01", 0, 384
+	Patch "STLWAL01", 0, 448
+	Patch "STLWAL01", 0, 512
+	Patch "STLWAL01", 0, 576
+	Patch "STLWAL01", 0, 640
+	Patch "STLWAL01", 0, 704
+	Patch "STLWAL01", 0, 768
+}
+
+WallTexture "STLWALL4", 64, 832
+{
+	Patch "STLREDU4", 0, 0
+	Patch "STLWAL01", 0, 64
+	Patch "STLWAL01", 0, 128
+	Patch "STLWAL01", 0, 192
+	Patch "STLWAL01", 0, 256
+	Patch "STLWAL01", 0, 320
+	Patch "STLWAL01", 0, 384
+	Patch "STLWAL01", 0, 448
+	Patch "STLWAL01", 0, 512
+	Patch "STLWAL01", 0, 576
+	Patch "STLWAL01", 0, 640
+	Patch "STLWAL01", 0, 704
+	Patch "STLWAL01", 0, 768
+}
+
+WallTexture "STLWALL5", 64, 832
+{
+	Patch "STLREDU5", 0, 0
+	Patch "STLWAL01", 0, 64
+	Patch "STLWAL01", 0, 128
+	Patch "STLWAL01", 0, 192
+	Patch "STLWAL01", 0, 256
+	Patch "STLWAL01", 0, 320
+	Patch "STLWAL01", 0, 384
+	Patch "STLWAL01", 0, 448
+	Patch "STLWAL01", 0, 512
+	Patch "STLWAL01", 0, 576
+	Patch "STLWAL01", 0, 640
+	Patch "STLWAL01", 0, 704
+	Patch "STLWAL01", 0, 768
+}
+
+WallTexture "STLWALL6", 64, 832
+{
+	Patch "STLREDU6", 0, 0
+	Patch "STLWAL01", 0, 64
+	Patch "STLWAL01", 0, 128
+	Patch "STLWAL01", 0, 192
+	Patch "STLWAL01", 0, 256
+	Patch "STLWAL01", 0, 320
+	Patch "STLWAL01", 0, 384
+	Patch "STLWAL01", 0, 448
+	Patch "STLWAL01", 0, 512
+	Patch "STLWAL01", 0, 576
+	Patch "STLWAL01", 0, 640
+	Patch "STLWAL01", 0, 704
+	Patch "STLWAL01", 0, 768
+}
+
+WallTexture "STLEDGL1", 64, 832
+{
+	Patch "STLCORNL", 0, 0
+	Patch "STLREDL1", 0, 64
+	Patch "STLREDL1", 0, 128
+	Patch "STLREDL1", 0, 192
+	Patch "STLREDL1", 0, 256
+	Patch "STLREDL1", 0, 320
+	Patch "STLREDL1", 0, 384
+	Patch "STLREDL1", 0, 448
+	Patch "STLREDL1", 0, 512
+	Patch "STLREDL1", 0, 576
+	Patch "STLREDL1", 0, 640
+	Patch "STLREDL1", 0, 704
+	Patch "STLREDL1", 0, 768
+}
+
+WallTexture "STLEDGL2", 64, 832
+{
+	Patch "STLCORNL", 0, 0
+	Patch "STLREDL2", 0, 64
+	Patch "STLREDL2", 0, 128
+	Patch "STLREDL2", 0, 192
+	Patch "STLREDL2", 0, 256
+	Patch "STLREDL2", 0, 320
+	Patch "STLREDL2", 0, 384
+	Patch "STLREDL2", 0, 448
+	Patch "STLREDL2", 0, 512
+	Patch "STLREDL2", 0, 576
+	Patch "STLREDL2", 0, 640
+	Patch "STLREDL2", 0, 704
+	Patch "STLREDL2", 0, 768
+}
+
+WallTexture "STLEDGL3", 64, 832
+{
+	Patch "STLCORNL", 0, 0
+	Patch "STLREDL3", 0, 64
+	Patch "STLREDL3", 0, 128
+	Patch "STLREDL3", 0, 192
+	Patch "STLREDL3", 0, 256
+	Patch "STLREDL3", 0, 320
+	Patch "STLREDL3", 0, 384
+	Patch "STLREDL3", 0, 448
+	Patch "STLREDL3", 0, 512
+	Patch "STLREDL3", 0, 576
+	Patch "STLREDL3", 0, 640
+	Patch "STLREDL3", 0, 704
+	Patch "STLREDL3", 0, 768
+}
+
+WallTexture "STLEDGL4", 64, 832
+{
+	Patch "STLCORNL", 0, 0
+	Patch "STLREDL4", 0, 64
+	Patch "STLREDL4", 0, 128
+	Patch "STLREDL4", 0, 192
+	Patch "STLREDL4", 0, 256
+	Patch "STLREDL4", 0, 320
+	Patch "STLREDL4", 0, 384
+	Patch "STLREDL4", 0, 448
+	Patch "STLREDL4", 0, 512
+	Patch "STLREDL4", 0, 576
+	Patch "STLREDL4", 0, 640
+	Patch "STLREDL4", 0, 704
+	Patch "STLREDL4", 0, 768
+}
+
+WallTexture "STLEDGL5", 64, 832
+{
+	Patch "STLCORNL", 0, 0
+	Patch "STLREDL5", 0, 64
+	Patch "STLREDL5", 0, 128
+	Patch "STLREDL5", 0, 192
+	Patch "STLREDL5", 0, 256
+	Patch "STLREDL5", 0, 320
+	Patch "STLREDL5", 0, 384
+	Patch "STLREDL5", 0, 448
+	Patch "STLREDL5", 0, 512
+	Patch "STLREDL5", 0, 576
+	Patch "STLREDL5", 0, 640
+	Patch "STLREDL5", 0, 704
+	Patch "STLREDL5", 0, 768
+}
+
+WallTexture "STLEDGL6", 64, 832
+{
+	Patch "STLCORNL", 0, 0
+	Patch "STLREDL6", 0, 64
+	Patch "STLREDL6", 0, 128
+	Patch "STLREDL6", 0, 192
+	Patch "STLREDL6", 0, 256
+	Patch "STLREDL6", 0, 320
+	Patch "STLREDL6", 0, 384
+	Patch "STLREDL6", 0, 448
+	Patch "STLREDL6", 0, 512
+	Patch "STLREDL6", 0, 576
+	Patch "STLREDL6", 0, 640
+	Patch "STLREDL6", 0, 704
+	Patch "STLREDL6", 0, 768
+}
+
+WallTexture "STLEDGR1", 64, 832
+{
+	Patch "STLCORNR", 0, 0
+	Patch "STLREDR1", 0, 64
+	Patch "STLREDR1", 0, 128
+	Patch "STLREDR1", 0, 192
+	Patch "STLREDR1", 0, 256
+	Patch "STLREDR1", 0, 320
+	Patch "STLREDR1", 0, 384
+	Patch "STLREDR1", 0, 448
+	Patch "STLREDR1", 0, 512
+	Patch "STLREDR1", 0, 576
+	Patch "STLREDR1", 0, 640
+	Patch "STLREDR1", 0, 704
+	Patch "STLREDR1", 0, 768
+}
+
+WallTexture "STLEDGR2", 64, 832
+{
+	Patch "STLCORNR", 0, 0
+	Patch "STLREDR2", 0, 64
+	Patch "STLREDR2", 0, 128
+	Patch "STLREDR2", 0, 192
+	Patch "STLREDR2", 0, 256
+	Patch "STLREDR2", 0, 320
+	Patch "STLREDR2", 0, 384
+	Patch "STLREDR2", 0, 448
+	Patch "STLREDR2", 0, 512
+	Patch "STLREDR2", 0, 576
+	Patch "STLREDR2", 0, 640
+	Patch "STLREDR2", 0, 704
+	Patch "STLREDR2", 0, 768
+}
+
+WallTexture "STLEDGR3", 64, 832
+{
+	Patch "STLCORNR", 0, 0
+	Patch "STLREDR3", 0, 64
+	Patch "STLREDR3", 0, 128
+	Patch "STLREDR3", 0, 192
+	Patch "STLREDR3", 0, 256
+	Patch "STLREDR3", 0, 320
+	Patch "STLREDR3", 0, 384
+	Patch "STLREDR3", 0, 448
+	Patch "STLREDR3", 0, 512
+	Patch "STLREDR3", 0, 576
+	Patch "STLREDR3", 0, 640
+	Patch "STLREDR3", 0, 704
+	Patch "STLREDR3", 0, 768
+}
+
+WallTexture "STLEDGR4", 64, 832
+{
+	Patch "STLCORNR", 0, 0
+	Patch "STLREDR4", 0, 64
+	Patch "STLREDR4", 0, 128
+	Patch "STLREDR4", 0, 192
+	Patch "STLREDR4", 0, 256
+	Patch "STLREDR4", 0, 320
+	Patch "STLREDR4", 0, 384
+	Patch "STLREDR4", 0, 448
+	Patch "STLREDR4", 0, 512
+	Patch "STLREDR4", 0, 576
+	Patch "STLREDR4", 0, 640
+	Patch "STLREDR4", 0, 704
+	Patch "STLREDR4", 0, 768
+}
+
+WallTexture "STLEDGR5", 64, 832
+{
+	Patch "STLCORNR", 0, 0
+	Patch "STLREDR5", 0, 64
+	Patch "STLREDR5", 0, 128
+	Patch "STLREDR5", 0, 192
+	Patch "STLREDR5", 0, 256
+	Patch "STLREDR5", 0, 320
+	Patch "STLREDR5", 0, 384
+	Patch "STLREDR5", 0, 448
+	Patch "STLREDR5", 0, 512
+	Patch "STLREDR5", 0, 576
+	Patch "STLREDR5", 0, 640
+	Patch "STLREDR5", 0, 704
+	Patch "STLREDR5", 0, 768
+}
+
+WallTexture "STLEDGR6", 64, 832
+{
+	Patch "STLCORNR", 0, 0
+	Patch "STLREDR6", 0, 64
+	Patch "STLREDR6", 0, 128
+	Patch "STLREDR6", 0, 192
+	Patch "STLREDR6", 0, 256
+	Patch "STLREDR6", 0, 320
+	Patch "STLREDR6", 0, 384
+	Patch "STLREDR6", 0, 448
+	Patch "STLREDR6", 0, 512
+	Patch "STLREDR6", 0, 576
+	Patch "STLREDR6", 0, 640
+	Patch "STLREDR6", 0, 704
+	Patch "STLREDR6", 0, 768
+}

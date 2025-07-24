@@ -1,0 +1,5 @@
+Maincfg
+NumDemos = 4
+TitleScrollSpeed = 20
+TitlePicsMode = Alacroix
+TitlePicsScalesAvailable = 2,4,5

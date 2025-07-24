@@ -1,0 +1,41 @@
+WallTexture "SKY22", 1024, 512
+{
+	Patch "ERSKY1", 0, 0
+	Patch "ERSKY2", 128, 0
+	Patch "ERSKY3", 256, 0
+	Patch "ERSKY4", 384, 0
+	Patch "ERSKY5", 512, 0
+	Patch "ERSKY6", 640, 0
+	Patch "ERSKY7", 768, 0
+	Patch "ERSKY8", 896, 0
+	Patch "ERSKY9", 0, 128
+	Patch "ERSKY10", 128, 128
+	Patch "ERSKY11", 256, 128
+	Patch "ERSKY12", 384, 128
+	Patch "ERSKY13", 512, 128
+	Patch "ERSKY14", 640, 128
+	Patch "ERSKY15", 768, 128
+	Patch "ERSKY16", 896, 128
+	Patch "ERSKY17", 0, 256
+	Patch "ERSKY18", 128, 256
+	Patch "ERSKY19", 256, 256
+	Patch "ERSKY20", 384, 256
+	Patch "ERSKY21", 512, 256
+	Patch "ERSKY22", 640, 256
+	Patch "ERSKY23", 768, 256
+	Patch "ERSKY24", 896, 256
+	Patch "ERSKY25", 0, 384
+	Patch "ERSKY26", 128, 384
+	Patch "ERSKY27", 256, 384
+	Patch "ERSKY28", 384, 384
+	Patch "ERSKY29", 512, 384
+	Patch "ERSKY30", 640, 384
+	Patch "ERSKY31", 768, 384
+	Patch "ERSKY32", 896, 384
+}
+
+WallTexture "ERZWAL16", 256, 256
+{
+	Patch "ERZWAL08", 0, 0
+	Patch "ERWAL16A", 0, 0
+}

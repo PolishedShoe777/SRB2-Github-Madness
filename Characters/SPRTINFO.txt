@@ -1,0 +1,413 @@
+//
+// Sonic
+//
+
+Sprite2 NFLY
+{
+	Skin sonic
+	Frame A
+	{
+		XPivot 22
+		YPivot 47
+		RotAxis Z
+	}
+}
+
+Sprite2 NDRL
+{
+	Skin sonic
+	Frame A
+	{
+		XPivot 22
+		YPivot 47
+		RotAxis Z
+	}
+	Frame B
+	{
+		XPivot 22
+		YPivot 23
+		RotAxis Z
+	}
+	Frame C
+	{
+		XPivot 22
+		YPivot 27
+		RotAxis Z
+	}
+	Frame D
+	{
+		XPivot 22
+		YPivot 23
+		RotAxis Z
+	}
+}
+
+Sprite2 NPUL
+{
+	Skin sonic
+	Frame A
+	{
+		XPivot 22
+		YPivot 47
+		RotAxis Z
+	}
+}
+
+//
+// Tails
+//
+
+Sprite2 NFLY
+{
+	Skin tails
+	Frame A
+	{
+		XPivot 34
+		YPivot 31
+		RotAxis Z
+	}
+	Frame B
+	{
+		XPivot 34
+		YPivot 31
+		RotAxis Z
+	}
+	Frame C
+	{
+		XPivot 34
+		YPivot 31
+		RotAxis Z
+	}
+	Frame D
+	{
+		XPivot 34
+		YPivot 31
+		RotAxis Z
+	}
+	Frame E
+	{
+		XPivot 34
+		YPivot 31
+		RotAxis Z
+	}
+	Frame F
+	{
+		XPivot 34
+		YPivot 31
+		RotAxis Z
+	}
+	Frame G
+	{
+		XPivot 34
+		YPivot 31
+		RotAxis Z
+	}
+	Frame H
+	{
+		XPivot 34
+		YPivot 31
+		RotAxis Z
+	}
+}
+
+Sprite2 NDRL
+{
+	Skin tails
+	Frame A
+	{
+		XPivot 34
+		YPivot 31
+		RotAxis Z
+	}
+	Frame B
+	{
+		XPivot 32
+		YPivot 17
+		RotAxis Z
+	}
+	Frame C
+	{
+		XPivot 34
+		YPivot 6
+		RotAxis Z
+	}
+	Frame D
+	{
+		XPivot 30
+		YPivot 16
+		RotAxis Z
+	}
+}
+
+Sprite2 NPUL
+{
+	Skin tails
+	Frame A
+	{
+		XPivot 34
+		YPivot 31
+		RotAxis Z
+	}
+	Frame B
+	{
+		XPivot 34
+		YPivot 31
+		RotAxis Z
+	}
+	Frame C
+	{
+		XPivot 34
+		YPivot 31
+		RotAxis Z
+	}
+	Frame D
+	{
+		XPivot 34
+		YPivot 31
+		RotAxis Z
+	}
+	Frame E
+	{
+		XPivot 34
+		YPivot 31
+		RotAxis Z
+	}
+	Frame F
+	{
+		XPivot 34
+		YPivot 31
+		RotAxis Z
+	}
+	Frame G
+	{
+		XPivot 34
+		YPivot 31
+		RotAxis Z
+	}
+	Frame H
+	{
+		XPivot 34
+		YPivot 31
+		RotAxis Z
+	}
+}
+
+//
+// Knuckles
+//
+
+Sprite2 NFLY
+{
+	Skin knuckles
+	Frame A
+	{
+		XPivot 24
+		YPivot 30
+		RotAxis Z
+	}
+}
+
+Sprite2 NDRL
+{
+	Skin knuckles
+	Frame A
+	{
+		XPivot 26
+		YPivot 30
+		RotAxis Z
+	}
+	Frame B
+	{
+		XPivot 26
+		YPivot 30
+		RotAxis Z
+	}
+	Frame C
+	{
+		XPivot 26
+		YPivot 30
+		RotAxis Z
+	}
+	Frame D
+	{
+		XPivot 26
+		YPivot 30
+		RotAxis Z
+	}
+}
+
+Sprite2 NPUL
+{
+	Skin knuckles
+	Frame A
+	{
+		XPivot 24
+		YPivot 30
+		RotAxis Z
+	}
+}
+
+//
+// Amy
+//
+
+Sprite2 NFLY
+{
+	Skin amy
+	Frame A
+	{
+		XPivot 25
+		YPivot 31
+		RotAxis Z
+	}
+}
+
+Sprite2 NDRL
+{
+	Skin amy
+	Frame A
+	{
+		XPivot 23
+		YPivot 19
+		RotAxis Z
+	}
+	Frame B
+	{
+		XPivot 29
+		YPivot 20
+		RotAxis Z
+	}
+	Frame C
+	{
+		XPivot 23
+		YPivot 19
+		RotAxis Z
+	}
+	Frame D
+	{
+		XPivot 26
+		YPivot 20
+		RotAxis Z
+	}
+}
+
+Sprite2 NPUL
+{
+	Skin amy
+	Frame A
+	{
+		XPivot 25
+		YPivot 31
+		RotAxis Z
+	}
+}
+
+//
+// Fang
+//
+
+Sprite2 NFLY
+{
+	Skin fang
+	Frame A
+	{
+		XPivot 33
+		YPivot 40
+		RotAxis Z
+	}
+}
+
+Sprite2 NDRL
+{
+	Skin fang
+	Frame A
+	{
+		XPivot 33
+		YPivot 40
+		RotAxis Z
+	}
+	Frame B
+	{
+		XPivot 42
+		YPivot 18
+		RotAxis Z
+	}
+	Frame C
+	{
+		XPivot 33
+		YPivot 12
+		RotAxis Z
+	}
+	Frame D
+	{
+		XPivot 43
+		YPivot 18
+		RotAxis Z
+	}
+}
+
+Sprite2 NPUL
+{
+	Skin fang
+	Frame A
+	{
+		XPivot 33
+		YPivot 40
+		RotAxis Z
+	}
+}
+
+//
+// Metal Sonic
+//
+
+Sprite2 NFLY
+{
+	Skin metalsonic
+	Frame A
+	{
+		XPivot 25
+		YPivot 45
+		RotAxis Z
+	}
+}
+
+Sprite2 NDRL
+{
+	Skin metalsonic
+	Frame A
+	{
+		XPivot 32
+		YPivot 37
+		RotAxis Z
+	}
+	Frame B
+	{
+		XPivot 34
+		YPivot 17
+		RotAxis Z
+	}
+	Frame C
+	{
+		XPivot 32
+		YPivot 4
+		RotAxis Z
+	}
+	Frame D
+	{
+		XPivot 40
+		YPivot 19
+		RotAxis Z
+	}
+}
+
+Sprite2 NPUL
+{
+	Skin metalsonic
+	Frame A
+	{
+		XPivot 25
+		YPivot 45
+		RotAxis Z
+	}
+}

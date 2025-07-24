@@ -1,0 +1,17 @@
+name = knuckles
+realname = Knuckles
+hudname = K.T.E
+startcolor = 96
+prefcolor = Pepper
+supercolor = Red
+ability = CA_GLIDEANDCLIMB
+actionspd = 25
+jumpfactor = 0.85
+shieldscale = 1.1
+normalspeed = 36
+thrustfactor = 5
+accelstart = 96
+acceleration = 40
+contspeed = 17
+contangle = 7
+flags = SF_SUPER|SF_NOSUPERJUMPBOOST|SF_CANBUSTWALLS

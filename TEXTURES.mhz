@@ -1,0 +1,87 @@
+WallTexture "MHROCK", 128, 128
+{
+	Patch "MHTILE1E", 0, 0
+	Patch "MHTILE1E", 32, 0
+	Patch "MHTILE1E", 64, 0
+	Patch "MHTILE1E", 96, 0
+	Patch "MHTILE1E", 0, 32
+	Patch "MHTILE1E", 32, 32
+	Patch "MHTILE1E", 64, 32
+	Patch "MHTILE1E", 96, 32
+	Patch "MHTILE1E", 0, 64
+	Patch "MHTILE1E", 32, 64
+	Patch "MHTILE1E", 64, 64
+	Patch "MHTILE1E", 96, 64
+	Patch "MHTILE1E", 0, 96
+	Patch "MHTILE1E", 32, 96
+	Patch "MHTILE1E", 64, 96
+	Patch "MHTILE1E", 96, 96
+}
+
+WallTexture "MHWALL1", 256, 256
+{
+	Patch "MHTILE1E", 0, 0
+	Patch "MHTILE1E", 32, 0
+	Patch "MHTILE1E", 64, 0
+	Patch "MHTILE1E", 96, 0
+	Patch "MHTILE1E", 128, 0
+	Patch "MHTILE1E", 160, 0
+	Patch "MHTILE1E", 192, 0
+	Patch "MHTILE1E", 224, 0
+	Patch "MHTILE1E", 0, 32
+	Patch "MHTILE1A", 32, 32
+	Patch "MHTILE1B", 64, 32
+	Patch "MHTILE1C", 96, 32
+	Patch "MHTILE1E", 128, 32
+	Patch "MHTILE2A", 160, 32
+	Patch "MHTILE2B", 192, 32
+	Patch "MHTILE2C", 224, 32
+	Patch "MHTILE1E", 0, 64
+	Patch "MHTILE1D", 32, 64
+	Patch "MHTILE1E", 64, 64
+	Patch "MHTILE1F", 96, 64
+	Patch "MHTILE1E", 128, 64
+	Patch "MHTILE2D", 160, 64
+	Patch "MHTILE2E", 192, 64
+	Patch "MHTILE2F", 224, 64
+	Patch "MHTILE1E", 0, 96
+	Patch "MHTILE1G", 32, 96
+	Patch "MHTILE1H", 64, 96
+	Patch "MHTILE1I", 96, 96
+	Patch "MHTILE1E", 128, 96
+	Patch "MHTILE2G", 160, 96
+	Patch "MHTILE2H", 192, 96
+	Patch "MHTILE2I", 224, 96
+	Patch "MHTILE1E", 0, 128
+	Patch "MHTILE1E", 32, 128
+	Patch "MHTILE1E", 64, 128
+	Patch "MHTILE1E", 96, 128
+	Patch "MHTILE1E", 128, 128
+	Patch "MHTILE1E", 160, 128
+	Patch "MHTILE1E", 192, 128
+	Patch "MHTILE1E", 224, 128
+	Patch "MHTILE1E", 0, 160
+	Patch "MHTILE2A", 32, 160
+	Patch "MHTILE2B", 64, 160
+	Patch "MHTILE2C", 96, 160
+	Patch "MHTILE1E", 128, 160
+	Patch "MHTILE1A", 160, 160
+	Patch "MHTILE1B", 192, 160
+	Patch "MHTILE1C", 224, 160
+	Patch "MHTILE1E", 0, 192
+	Patch "MHTILE2D", 32, 192
+	Patch "MHTILE2E", 64, 192
+	Patch "MHTILE2F", 96, 192
+	Patch "MHTILE1E", 128, 192
+	Patch "MHTILE1D", 160, 192
+	Patch "MHTILE1E", 192, 192
+	Patch "MHTILE1F", 224, 192
+	Patch "MHTILE1E", 0, 224
+	Patch "MHTILE2G", 32, 224
+	Patch "MHTILE2H", 64, 224
+	Patch "MHTILE2I", 96, 224
+	Patch "MHTILE1E", 128, 224
+	Patch "MHTILE1G", 160, 224
+	Patch "MHTILE1H", 192, 224
+	Patch "MHTILE1I", 224, 224
+}
